@@ -5,7 +5,6 @@
   "main": "server.js",
   "scripts": {
     "start": "nodemon server.js",
-    "server": "nodemon server.js"
   },
   "keywords": [],
   "author": "Arjun chauhan",
